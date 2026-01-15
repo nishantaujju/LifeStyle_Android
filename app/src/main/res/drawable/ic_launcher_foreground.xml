@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Checklist/Calendar abstract shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,35 L78,35 C80,35 82,37 82,39 L82,73 C82,75 80,77 78,77 L30,77 C28,77 26,75 26,73 L26,39 C26,37 28,35 30,35 Z" />
+    <path
+        android:fillColor="#FDBA74"
+        android:pathData="M34,45 L74,45 L74,48 L34,48 Z" />
+    <path
+        android:fillColor="#FDBA74"
+        android:pathData="M34,55 L64,55 L64,58 L34,58 Z" />
+    <path
+        android:fillColor="#FDBA74"
+        android:pathData="M34,65 L54,65 L54,68 L34,68 Z" />
+    <!-- Water Drop highlight -->
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M70,60 C70,65 66,69 62,69 C58,69 54,65 54,60 C54,55 62,48 62,48 C62,48 70,55 70,60 Z" />
+</vector>
